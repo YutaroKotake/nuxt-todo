@@ -52,10 +52,5 @@ export default {
       })
     ]
   }
-  // ,
-  // plugins: [
-  //   new webpack.ProvidePlugin({
-  //     '_': 'lodash'
-  //   })
-  // ]
+
 }

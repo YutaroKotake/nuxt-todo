@@ -1,7 +1,6 @@
 import firebase from '~/plugins/firebase'
 import { firestoreAction } from 'vuexfire'
 import { _ } from 'core-js'
-
 import _sortBy from 'lodash/sortBy'
 
 const db = firebase.firestore()
