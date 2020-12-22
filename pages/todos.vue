@@ -10,6 +10,7 @@
             v-bind:checked="todo.done"
             @change="toggle(todo)"
           >
+          <!-- ぷるりくできるこめんといれてみた -->
           <!-- firebase取得データのnameと登録年月日時分秒(YYYY/MM/DD HH:mm:ss形式)を表示) -->
           <span v-bind:class="{ done: todo.done }">
             {{ todo.name }} {{ todo.created.toDate() | dateFilter}}
