@@ -89,7 +89,7 @@ export default {
     }
   }
 }
-// てすとこめんと
+// テストコメント
 </script>
 
 <style>
