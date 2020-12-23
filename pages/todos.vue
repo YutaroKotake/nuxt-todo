@@ -89,6 +89,7 @@ export default {
     }
   }
 }
+// テストコメント
 </script>
 
 <style>
